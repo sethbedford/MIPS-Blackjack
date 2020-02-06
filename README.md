@@ -4,7 +4,7 @@ Created November, 2018. Very basic singe-player blackjack game written in MIPS t
 ![Image of Game Screen](https://github.com/sethbedford/MIPS-Blackjack/blob/master/game_screen.png)
 
 # Usage
-* Open with MARS (https://courses.missouristate.edu/KenVollmar/MARS/)
+* Open Project.asm with MARS (https://courses.missouristate.edu/KenVollmar/MARS/)
 * Configure Bitmap Display
   * Select Tools > Bitmap Display
   * Set Unit Width and Height to 4
